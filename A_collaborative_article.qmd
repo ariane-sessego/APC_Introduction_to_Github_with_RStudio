@@ -1,0 +1,26 @@
+---
+title: "A collaborative article"
+author: "APC attendants"
+format: html
+editor: visual
+---
+
+## Introduction
+
+This is an introduction.
+
+## Data and Methods
+
+This is the demographic data we are using.
+
+## Results
+
+These are our results.
+
+## Discussion
+
+This is why they are important.
+
+## Conclusion
+
+This is our conclusion.
